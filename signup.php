@@ -22,6 +22,7 @@
 ?>
 
 <div class="container">
+  
     <h2>Registreren</h2>
 
     <p>Alles met een '*' is verplicht ingevuld te worden.</p>

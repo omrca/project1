@@ -31,6 +31,7 @@
 
 	}
 ?>
+
 <form name="lostpsw" id="lostpsw" method="post" onSubmit="return validate_forgot();">
 
   <h2> Wachtwoord vergeten </h2>
